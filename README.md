@@ -6,8 +6,8 @@
 <img src = "https://github-profile-trophy.vercel.app/?username=GrassyUnknown&theme=juicyfresh&rank=-?" >
 </p>
 <p align = "center">
-<img src = "https://i0.hdslb.com/bfs/new_dyn/d062551ab79f94ed3f23dd2619699ead17555975.jpg" >
+<img width = "40%" src = "https://i0.hdslb.com/bfs/new_dyn/d062551ab79f94ed3f23dd2619699ead17555975.jpg" >
 </p>
 <p align = "center">
-<img src = "https://i2.hdslb.com/bfs/new_dyn/a32818259b3acf330b0338be995fa29e20455752.gif@1000w_772h.avif">
+<img width = "50%" src = "https://i2.hdslb.com/bfs/new_dyn/a32818259b3acf330b0338be995fa29e20455752.gif@1000w_772h.avif">
 </p>
